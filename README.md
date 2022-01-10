@@ -1,7 +1,6 @@
- 👋🏼 Hi, I’m @naoloetscher 
+👋🏼 Hey, I’m Nao
 
-I love to visualize stories and ideas trough my creative work.
+A Gen-Z Designer exploring the big world of design and creative work.
 
-👀 Stalk me:<br>
 <a href="https://nao.vision/">Portfolio</a><br>
 <a href="https://www.instagram.com/naoloetscher/">Instagram</a><br>
