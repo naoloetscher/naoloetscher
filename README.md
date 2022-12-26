@@ -1,11 +1,7 @@
-👋🏼 Hey, I’m Nao
+Hey there! My name is Nao and I am a digital designer with a focus on web and motion graphics. 
 
-I’m a Gen-Z Designer exploring the big world of design and creative work. 
+I thrive in open-minded environments where I can let my creativity flow. As a detail-oriented designer, I strive to perfect my craft and deliver high-quality work every time. I am always open to new opportunities to collaborate with like-minded individuals and forward-thinking brands. 
 
----
+Thank you for stopping by!
 
-I like to play with motion graphics, videos and websites.
-
-For me creative freedom is very important. I like to work with open minded people and brands. I love to perfect my craft down to the smallest details.
-
-See my creative work - <a href="https://nao.vision/">Portfolio</a>, <a href="https://www.instagram.com/naoloetscher/">Instagram</a><br>
+<a href="https://naoloetscher.com/">naoloetscher.com</a>
